@@ -1,7 +1,7 @@
 ## projetopraticonavegacaoentretelas
 Projeto para pratica de navegacao entre telas com Kotlin
 
-### Print das telas Funcinado:
+### Print das telas Funcionado:
 #### Tela Login:
 ![Tela Login](images/TelaLogin.png)
 #### Tela Menu:
